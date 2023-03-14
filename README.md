@@ -61,10 +61,11 @@ rails s
 
 
 ## Team Members
+- [Kevin Tsai](https://www.linkedin.com/in/kevin-s-tsai/)
 - [Julien Afonso](https://www.linkedin.com/in/julien-afonso-59568124b/)
 - [Ruka Okuyama](https://www.linkedin.com/in/luka-okuyama-14b87213a/)
 - [Wanyu Jiang](https://www.linkedin.com/in/wanyu-jiang-144195248/)
-https://www.linkedin.com/in/kevin-s-tsai/
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
